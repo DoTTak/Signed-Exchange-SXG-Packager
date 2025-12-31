@@ -1,0 +1,5 @@
+.vscode/
+venv/
+certs/
+output/
+__pycache__/
