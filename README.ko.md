@@ -100,6 +100,9 @@ sudo python3 https_server.py
 - `https://localhost/cert.cbor` - 인증서 체인
 - `https://localhost/sxg` - SXG 파일
 
+## 스크린샷
+![screenshot](./images/screenshot-001.png)
+
 ## 프로젝트 구조
 
 ```

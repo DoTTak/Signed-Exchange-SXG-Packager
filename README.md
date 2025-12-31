@@ -100,6 +100,9 @@ sudo python3 https_server.py
 - `https://localhost/cert.cbor` - Certificate chain
 - `https://localhost/sxg` - SXG file
 
+## Screenshots
+![screenshot](./images/screenshot-001.png)
+
 ## Project Structure
 
 ```
